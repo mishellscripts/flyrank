@@ -21,7 +21,9 @@ outputs/*.pdf
 outputs/model_results.json
 outputs/summary.json
 outputs/*.csv
-!work/outputs/*.csv
+!work/outputs/ml10_action_queue.csv
+!work/outputs/ml10_summary_stats.csv
+!work/outputs/ml10_top20_preview.csv
 !outputs/refresh_queue_sample.csv
 
 # --- Intern work area ------------------------------------------------------
