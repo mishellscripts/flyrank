@@ -20,7 +20,7 @@ data/processed/
 outputs/*.pdf
 outputs/model_results.json
 outputs/summary.json
-outputs/*.csv
+/outputs/*.csv
 !outputs/refresh_queue_sample.csv
 
 # --- Intern work area ------------------------------------------------------
