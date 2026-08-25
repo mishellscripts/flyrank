@@ -1,8 +1,0 @@
-metric,value
-total_declining_pages,34402
-eligible_clients,38
-cutoff_date_T,2026-02-01
-high_impact_low_recovery_count,1378
-cross_val_auc,0.707
-cross_val_precision20,0.880
-cross_val_precision50,0.916
